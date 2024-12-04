@@ -37,6 +37,7 @@ if(list_l.length != list_r.length){
     console.log("Arrays are of different size. Aborting...");
 }
 
+// 2. Calculate sum of every pair difference.
 while(iterate){
     // get smallest number from each list
     min_l = Math.min(...list_l);
