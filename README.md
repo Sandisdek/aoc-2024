@@ -1,2 +1,3 @@
 # Advent of Code 2024
-Advent Of Code 2024
+Tasks, math, brainpower.
+Everything is done with Node.js
