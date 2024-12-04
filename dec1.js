@@ -34,7 +34,8 @@ try {
 
 // Arrays must be of the same size
 if(list_l.length != list_r.length){
-    console.log("Arrays are of different size. Aborting...");
+    console.error("Arrays are of different size. Aborting...");
+    return;
 }
 
 // 2. Calculate sum of every pair difference.
